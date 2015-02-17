@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Evolution Sidebar Box v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-19 12:23:09+0000\n"
+"Last-Translator: admin <kontakt@the-netbrain.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: evolution-sidebar-box.php:46
+#@ evolution
+msgid "Adds a Sidebar Box with recent posts, last comments, categories, popular posts, a tag cloud and the archives to the sidebar. No Options."
+msgstr "Fügt eine Box der Seitenleiste hinzu, die folgendes anzeigt: die Kategorien, die beliebtesten Beiträge, die letzten Kommentare, eine Tag-Cloud und die Archive. Keine Optionen."
+
+#: evolution-sidebar-box.php:76
+#: evolution-sidebar-box.php:94
+#@ evolution
+msgid " Recent Posts"
+msgstr "Letzte Beiträge"
+
+#: evolution-sidebar-box.php:78
+#: evolution-sidebar-box.php:108
+#@ evolution
+msgid " Last Comments"
+msgstr "Letzte Kommentare"
+
+#: evolution-sidebar-box.php:80
+#: evolution-sidebar-box.php:116
+#@ evolution
+msgid " Categories"
+msgstr "Kategorien"
+
+#: evolution-sidebar-box.php:82
+#: evolution-sidebar-box.php:124
+#@ evolution
+msgid " Famous Posts"
+msgstr "Beliebteste Beiträge"
+
+#: evolution-sidebar-box.php:84
+#: evolution-sidebar-box.php:153
+#@ evolution
+msgid " Tag Cloud"
+msgstr "Tag-Cloud"
+
+#: evolution-sidebar-box.php:86
+#@ evolution
+msgid " Archives"
+msgstr "Archive"
+
+#: evolution-sidebar-box.php:163
+#@ evolution
+msgid " Monthly Archives"
+msgstr "Archive nach Monat"
+
+#: evolution-sidebar-box.php:188
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: recent-comments.php:16
+#@ evolution
+msgid " ago"
+msgstr "seit"
+
+#: recent-comments.php:24
+#@ evolution
+msgid "No comments yet"
+msgstr "Keine Kommentare"
+
+#: recent-comments.php:32
+#@ evolution
+msgid "Anonymous"
+msgstr "Anonym"
+

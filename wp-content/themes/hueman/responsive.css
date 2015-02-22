@@ -224,7 +224,7 @@
 	.post-standard .post-thumbnail { margin-left: -120px; max-width: 100px; }
 	
 	.featured .post-title,
-	.single .post-title { font-size: 22px; line-height: 1.5em; letter-spacing: 0; }
+	.single .post-title { font-size: 24px; line-height: 1.5em; letter-spacing: 0; }
 	.post-byline { font-size: 13px; }
 	.post-format { margin-bottom: 20px; }
 	.format-gallery .post-format .flexslider .slides img { max-height: 240px; }
